@@ -1,0 +1,6 @@
+name: "soundsmod"
+displayName: "[orange]NoteBlocks[gold] Mod" //what displays in the mod selection menu
+author: "Eldoofus"
+description: "A mod for that adds note blocks."
+version: "1.0"
+minGameVersion: "104"
