@@ -1,4 +1,4 @@
-name: C3
+name: Eb4
 description: Plays a music note.
 type: GenericCrafter
 size: 1
@@ -20,6 +20,6 @@ requirements: [
   silicon/50
 ]
 category: effect
-activeSound: c3
+activeSound: eb4
 activeSoundVolume: 2
 outputItem: lead/1
