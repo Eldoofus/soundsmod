@@ -20,6 +20,6 @@ requirements: [
   silicon/50
 ]
 category: effect
-idleSound: pew
-idleSoundVolume: 2
+idleSound: eb4
+idleSoundVolume: 0.5
 outputItem: lead/1
