@@ -1,6 +1,6 @@
 name: C3
 description: Plays a music note.
-type: GenericSmelter
+type: GenericCrafter
 size: 1
 hasPower: false
 hasLiquids: false
@@ -19,7 +19,7 @@ requirements: [
   copper/50
   silicon/50
 ]
-category: crafting
-idleSound: c3
-idleSoundVolume: 0.9
+category: effect
+activeSound: c3
+activeSoundVolume: 2
 outputItem: lead/1
