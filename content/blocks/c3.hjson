@@ -20,6 +20,6 @@ requirements: [
   silicon/50
 ]
 category: effect
-activeSound: eb4
-activeSoundVolume: 2
+idleSound: eb4
+idleSoundVolume: 2
 outputItem: lead/1
